@@ -1,0 +1,70 @@
+body {
+    border: darkblue 5px solid;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+
+
+#c {
+    float: right;
+    width: auto;
+    margin: 10px;
+
+}
+
+Img {
+    
+    float: left;
+    border:darkblue 5px solid;
+    width: 300px;
+    
+    
+
+}
+
+#ID1{
+    font-size: 50px;
+    text-align: center;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+body {
+    background-color: coral;
+}
+
+.C2 {
+
+display: inline-flex;
+justify-content: space-between;
+}
+
+.date {
+    color: darkblue;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#C3 {
+    font-family: sans-serif;
+    color: ivory;
+    font-size:  13px;
+}
+#hdd{
+    line-height: 5px;
+    margin-bottom: 75px;
+    color: darkblue;
+
+}
+
+#C4 {
+
+    color: black;
+}
+
+#Cc {
+  color: ivory;
+}
